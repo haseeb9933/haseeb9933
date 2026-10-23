@@ -7,6 +7,8 @@
 <p align="center">
   <a href="mailto:contactbyhaseeb@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contactbyhaseeb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/haseeb-tariq099"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-haseeb--tariq099-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/923229909327"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2B92%20322%209909327-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.instagram.com/haseeb_tariq0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-haseeb__tariq0-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://github.com/haseeb9933?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/All%20repos-haseeb9933-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
@@ -109,6 +111,8 @@
 <p align="center">
   <a href="mailto:contactbyhaseeb@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Email%20me-contactbyhaseeb%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/haseeb-tariq099"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/923229909327"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.instagram.com/haseeb_tariq0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 <img width="100%" alt="" src="assets/footer.png">

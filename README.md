@@ -1,5 +1,5 @@
 <h1 align="center">Haseeb Tariq</h1>
-<p align="center"><b>AI &amp; Automation Engineer</b> · Lahore, Pakistan (GMT+5) · Remote</p>
+<p align="center"><b>AI &amp; Automation Engineer</b> · 
 
 <p align="center">
   I build AI systems that run in production, not demos: autonomous agents, AI receptionists,

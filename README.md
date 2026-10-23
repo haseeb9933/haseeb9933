@@ -1,4 +1,4 @@
-<img width="100%" alt="Haseeb Tariq, AI & Automation Engineer" src="assets/hero.png">
+<img width="100%" alt="Haseeb Tariq, AI & Automation Engineer" src="assets-flat/hero.png">
 
 <p align="center">
   <img alt="What I build" src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=820&height=50&lines=Autonomous+agents+that+run+in+production%2C+not+demos;Voice+and+chat+agents+that+book+real+appointments;Browser+bots+that+survive+anti-detection;n8n+pipelines+that+debug+and+fix+themselves;Full-stack+AI+platforms+used+by+real+teams+every+day">
@@ -17,12 +17,12 @@
 <h2 align="center">What I build</h2>
 
 <p align="center">
-  <img width="32%" alt="AI agents and LLM apps" src="assets/svc-agents.png">
-  <img width="32%" alt="RAG assistants" src="assets/svc-rag.png">
-  <img width="32%" alt="Voice and chat agents" src="assets/svc-voice.png">
-  <img width="32%" alt="Browser automation and scraping" src="assets/svc-browser.png">
-  <img width="32%" alt="Workflow automation" src="assets/svc-workflows.png">
-  <img width="32%" alt="Full-stack AI products" src="assets/svc-fullstack.png">
+  <img width="32%" alt="AI agents and LLM apps" src="assets-flat/svc-agents.png">
+  <img width="32%" alt="RAG assistants" src="assets-flat/svc-rag.png">
+  <img width="32%" alt="Voice and chat agents" src="assets-flat/svc-voice.png">
+  <img width="32%" alt="Browser automation and scraping" src="assets-flat/svc-browser.png">
+  <img width="32%" alt="Workflow automation" src="assets-flat/svc-workflows.png">
+  <img width="32%" alt="Full-stack AI products" src="assets-flat/svc-fullstack.png">
 </p>
 
 <br>
@@ -31,12 +31,12 @@
 <p align="center">Click a card to open the code.</p>
 
 <p align="center">
-  <img width="49%" alt="Momentum" src="assets/momentum.png">
-  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/Axon-Bridge"><img width="49%" alt="Axon Bridge" src="assets/axon-bridge.png"></a>
-  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/Binance"><img width="49%" alt="Rubber Band trading bot" src="assets/rubber-band.png"></a>
-  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/schmoozzer-hub"><img width="49%" alt="Ops Hub" src="assets/ops-hub.png"></a>
-  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/NOVA"><img width="49%" alt="NOVA n8n copilot" src="assets/nova.png"></a>
-  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/bidsquare"><img width="49%" alt="Bidsquare outreach bot" src="assets/bidsquare.png"></a>
+  <img width="49%" alt="Momentum" src="assets-flat/momentum.png">
+  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/Axon-Bridge"><img width="49%" alt="Axon Bridge" src="assets-flat/axon-bridge.png"></a>
+  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/Binance"><img width="49%" alt="Rubber Band trading bot" src="assets-flat/rubber-band.png"></a>
+  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/schmoozzer-hub"><img width="49%" alt="Ops Hub" src="assets-flat/ops-hub.png"></a>
+  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/NOVA"><img width="49%" alt="NOVA n8n copilot" src="assets-flat/nova.png"></a>
+  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/bidsquare"><img width="49%" alt="Bidsquare outreach bot" src="assets-flat/bidsquare.png"></a>
 </p>
 
 <br>
@@ -44,15 +44,15 @@
 <h2 align="center">More work</h2>
 
 <p align="center">
-  <img width="32%" alt="NEXA Ops Handbook" src="assets/handbook.png">
-  <img width="32%" alt="Convo AI" src="assets/convo-ai.png">
-  <img width="32%" alt="LinkedIn-to-Email automation" src="assets/linkedin-email.png">
-  <img width="32%" alt="TikTok news video pipeline" src="assets/tiktok-news.png">
-  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/linkedin--automation"><img width="32%" alt="LinkedIn Automation API" src="assets/linkedin-api.png"></a>
-  <a href="https://github.com/haseeb9933/tiktok-instagram-scraper"><img width="32%" alt="TikTok and Instagram scraper" src="assets/scraper.png"></a>
-  <a href="https://github.com/haseeb9933/Retail-Sales-Data-Dashboard"><img width="32%" alt="Retail Sales Dashboard" src="assets/retail.png"></a>
-  <a href="https://github.com/haseeb9933/Full_Stack_AI__Haseeb"><img width="32%" alt="ML and forecasting notebooks" src="assets/ml.png"></a>
-  <a href="https://github.com/haseeb9933/3x-aiautomation-portfolio"><img width="32%" alt="3X AI Automation site" src="assets/3x.png"></a>
+  <img width="32%" alt="NEXA Ops Handbook" src="assets-flat/handbook.png">
+  <img width="32%" alt="Convo AI" src="assets-flat/convo-ai.png">
+  <img width="32%" alt="LinkedIn-to-Email automation" src="assets-flat/linkedin-email.png">
+  <img width="32%" alt="TikTok news video pipeline" src="assets-flat/tiktok-news.png">
+  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/linkedin--automation"><img width="32%" alt="LinkedIn Automation API" src="assets-flat/linkedin-api.png"></a>
+  <a href="https://github.com/haseeb9933/tiktok-instagram-scraper"><img width="32%" alt="TikTok and Instagram scraper" src="assets-flat/scraper.png"></a>
+  <a href="https://github.com/haseeb9933/Retail-Sales-Data-Dashboard"><img width="32%" alt="Retail Sales Dashboard" src="assets-flat/retail.png"></a>
+  <a href="https://github.com/haseeb9933/Full_Stack_AI__Haseeb"><img width="32%" alt="ML and forecasting notebooks" src="assets-flat/ml.png"></a>
+  <a href="https://github.com/haseeb9933/3x-aiautomation-portfolio"><img width="32%" alt="3X AI Automation site" src="assets-flat/3x.png"></a>
 </p>
 
 <p align="center"><sub>Cards marked <i>Private</i> are employer or client builds. Everything in <a href="https://github.com/haseeb9933/haseeb-portfolio">haseeb-portfolio</a> ships with runnable code, an <code>.env.example</code> and full technical documentation.</sub></p>
@@ -94,7 +94,7 @@
 <h2 align="center">Experience</h2>
 
 <p align="center">
-  <img width="100%" alt="Timeline: CodAgentic and EnlightSystems internships in 2025, AI Engineer at Schmoozzer Sep 2025 to Mar 2026, AI Engineer at Digital Nexa since Mar 2026" src="assets/experience.png">
+  <img width="100%" alt="Timeline: CodAgentic and EnlightSystems internships in 2025, AI Engineer at Schmoozzer Sep 2025 to Mar 2026, AI Engineer at Digital Nexa since Mar 2026" src="assets-flat/experience.png">
 </p>
 
 <p align="center"><sub>Also co-engineer at <b>3X AI Automation</b>, an AI automation agency, with Usama Younas.</sub></p>
@@ -115,4 +115,4 @@
   <a href="https://www.instagram.com/haseeb_tariq0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-<img width="100%" alt="" src="assets/footer.png">
+<img width="100%" alt="" src="assets-flat/footer.png">

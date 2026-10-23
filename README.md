@@ -88,7 +88,6 @@ Also co-engineer at **3X AI Automation**, an AI automation agency. Site source: 
 **Infra** · Docker · AWS (EC2, S3) · Vercel · Render · Turborepo · GitHub Actions · Nginx + systemd
 
 <p align="center">
-  <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=haseeb9933&show_icons=true&hide_border=true&hide_title=true&theme=transparent">
   <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb9933&layout=compact&hide_border=true&theme=transparent">
 </p>
 

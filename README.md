@@ -31,7 +31,7 @@
 <p align="center">
   <img width="49%" alt="Momentum" src="assets/momentum.png">
   <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/Axon-Bridge"><img width="49%" alt="Axon Bridge" src="assets/axon-bridge.png"></a>
-  <a href="https://github.com/haseeb9933/Receptionist"><img width="49%" alt="AI Receptionist" src="assets/receptionist.png"></a>
+  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/Binance"><img width="49%" alt="Rubber Band trading bot" src="assets/rubber-band.png"></a>
   <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/schmoozzer-hub"><img width="49%" alt="Ops Hub" src="assets/ops-hub.png"></a>
   <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/NOVA"><img width="49%" alt="NOVA n8n copilot" src="assets/nova.png"></a>
   <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/bidsquare"><img width="49%" alt="Bidsquare outreach bot" src="assets/bidsquare.png"></a>
@@ -48,7 +48,6 @@
   <img width="32%" alt="TikTok news video pipeline" src="assets/tiktok-news.png">
   <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/linkedin--automation"><img width="32%" alt="LinkedIn Automation API" src="assets/linkedin-api.png"></a>
   <a href="https://github.com/haseeb9933/tiktok-instagram-scraper"><img width="32%" alt="TikTok and Instagram scraper" src="assets/scraper.png"></a>
-  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/Binance"><img width="32%" alt="Rubber Band trading bot" src="assets/rubber-band.png"></a>
   <a href="https://github.com/haseeb9933/Retail-Sales-Data-Dashboard"><img width="32%" alt="Retail Sales Dashboard" src="assets/retail.png"></a>
   <a href="https://github.com/haseeb9933/Full_Stack_AI__Haseeb"><img width="32%" alt="ML and forecasting notebooks" src="assets/ml.png"></a>
   <a href="https://github.com/haseeb9933/3x-aiautomation-portfolio"><img width="32%" alt="3X AI Automation site" src="assets/3x.png"></a>

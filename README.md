@@ -1,15 +1,8 @@
-<img width="100%" alt="Haseeb Tariq, AI & Automation Engineer" src="assets-flat/hero.png">
-
-<p align="center">
-  <img alt="What I build" src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=820&height=50&lines=Autonomous+agents+that+run+in+production%2C+not+demos;Voice+and+chat+agents+that+book+real+appointments;Browser+bots+that+survive+anti-detection;n8n+pipelines+that+debug+and+fix+themselves;Full-stack+AI+platforms+used+by+real+teams+every+day">
-</p>
+<img width="100%" alt="I build AI systems that ship. Autonomous agents, automation pipelines and full-stack AI products running in production for real teams." src="img/hero.png">
 
 <p align="center">
   <a href="mailto:contactbyhaseeb@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contactbyhaseeb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/haseeb-tariq099"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-haseeb--tariq099-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/923229909327"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2B92%20322%209909327-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://www.instagram.com/haseeb_tariq0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-haseeb__tariq0-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/haseeb9933?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/All%20repos-haseeb9933-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <br>
@@ -17,26 +10,26 @@
 <h2 align="center">What I build</h2>
 
 <p align="center">
-  <img width="32%" alt="AI agents and LLM apps" src="assets-flat/svc-agents.png">
-  <img width="32%" alt="RAG assistants" src="assets-flat/svc-rag.png">
-  <img width="32%" alt="Voice and chat agents" src="assets-flat/svc-voice.png">
-  <img width="32%" alt="Browser automation and scraping" src="assets-flat/svc-browser.png">
-  <img width="32%" alt="Workflow automation" src="assets-flat/svc-workflows.png">
-  <img width="32%" alt="Full-stack AI products" src="assets-flat/svc-fullstack.png">
+  <img width="32%" alt="AI agents and LLM apps" src="img/svc-agents.png">
+  <img width="32%" alt="RAG assistants" src="img/svc-rag.png">
+  <img width="32%" alt="Voice and chat agents" src="img/svc-voice.png">
+  <img width="32%" alt="Browser automation and scraping" src="img/svc-browser.png">
+  <img width="32%" alt="Workflow automation" src="img/svc-workflows.png">
+  <img width="32%" alt="Full-stack AI products" src="img/svc-fullstack.png">
 </p>
 
 <br>
 
 <h2 align="center">Featured work</h2>
-<p align="center">Click a card to open the code.</p>
+<p align="center">Click a card to open the code or demo.</p>
 
 <p align="center">
-  <img width="49%" alt="Momentum" src="assets-flat/momentum.png">
-  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/Axon-Bridge"><img width="49%" alt="Axon Bridge" src="assets-flat/axon-bridge.png"></a>
-  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/Binance"><img width="49%" alt="Rubber Band trading bot" src="assets-flat/rubber-band.png"></a>
-  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/schmoozzer-hub"><img width="49%" alt="Ops Hub" src="assets-flat/ops-hub.png"></a>
-  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/NOVA"><img width="49%" alt="NOVA n8n copilot" src="assets-flat/nova.png"></a>
-  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/bidsquare"><img width="49%" alt="Bidsquare outreach bot" src="assets-flat/bidsquare.png"></a>
+  <img width="49%" alt="Momentum" src="img/momentum.png">
+  <a href="https://github.com/haseeb-tariq0/relay-demo"><img width="49%" alt="Relay, autonomous software delivery" src="img/relay.png"></a>
+  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/Axon-Bridge"><img width="49%" alt="Axon Bridge" src="img/axon-bridge.png"></a>
+  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/schmoozzer-hub"><img width="49%" alt="Ops Hub" src="img/ops-hub.png"></a>
+  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/NOVA"><img width="49%" alt="NOVA n8n copilot" src="img/nova.png"></a>
+  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/Binance"><img width="49%" alt="Rubber Band trading bot" src="img/rubber-band.png"></a>
 </p>
 
 <br>
@@ -44,15 +37,21 @@
 <h2 align="center">More work</h2>
 
 <p align="center">
-  <img width="32%" alt="NEXA Ops Handbook" src="assets-flat/handbook.png">
-  <img width="32%" alt="Convo AI" src="assets-flat/convo-ai.png">
-  <img width="32%" alt="LinkedIn-to-Email automation" src="assets-flat/linkedin-email.png">
-  <img width="32%" alt="TikTok news video pipeline" src="assets-flat/tiktok-news.png">
-  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/linkedin--automation"><img width="32%" alt="LinkedIn Automation API" src="assets-flat/linkedin-api.png"></a>
-  <a href="https://github.com/haseeb9933/tiktok-instagram-scraper"><img width="32%" alt="TikTok and Instagram scraper" src="assets-flat/scraper.png"></a>
-  <a href="https://github.com/haseeb9933/Retail-Sales-Data-Dashboard"><img width="32%" alt="Retail Sales Dashboard" src="assets-flat/retail.png"></a>
-  <a href="https://github.com/haseeb9933/Full_Stack_AI__Haseeb"><img width="32%" alt="ML and forecasting notebooks" src="assets-flat/ml.png"></a>
-  <a href="https://github.com/haseeb9933/3x-aiautomation-portfolio"><img width="32%" alt="3X AI Automation site" src="assets-flat/3x.png"></a>
+  <img width="32%" alt="NEXA EOS" src="img/nexa-eos.png">
+  <img width="32%" alt="NEXA Ops Handbook" src="img/handbook.png">
+  <img width="32%" alt="Convo AI" src="img/convo-ai.png">
+  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/bidsquare"><img width="32%" alt="Bidsquare outreach bot" src="img/bidsquare.png"></a>
+  <img width="32%" alt="LinkedIn-to-Email automation" src="img/linkedin-email.png">
+  <img width="32%" alt="TikTok news video pipeline" src="img/tiktok-news.png">
+  <img width="32%" alt="Flow Studio" src="img/flow-studio.png">
+  <img width="32%" alt="Faceless YouTube pipeline" src="img/youtube-auto.png">
+  <img width="32%" alt="Vault password manager" src="img/vault.png">
+  <img width="32%" alt="Upwork job watcher" src="img/upwork-bot.png">
+  <a href="https://github.com/haseeb9933/haseeb-portfolio/tree/main/linkedin--automation"><img width="32%" alt="LinkedIn Automation API" src="img/linkedin-api.png"></a>
+  <a href="https://github.com/haseeb9933/tiktok-instagram-scraper"><img width="32%" alt="TikTok and Instagram scraper" src="img/scraper.png"></a>
+  <img width="32%" alt="openkvm" src="img/openkvm.png">
+  <img width="32%" alt="Job Copilot" src="img/job-copilot.png">
+  <a href="https://github.com/haseeb9933/3x-aiautomation-portfolio"><img width="32%" alt="3X AI Automation site" src="img/3x.png"></a>
 </p>
 
 <p align="center"><sub>Cards marked <i>Private</i> are employer or client builds. Everything in <a href="https://github.com/haseeb9933/haseeb-portfolio">haseeb-portfolio</a> ships with runnable code, an <code>.env.example</code> and full technical documentation.</sub></p>
@@ -74,7 +73,7 @@
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
   <img alt="Anthropic Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
-  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-1F6FEB?style=for-the-badge&logo=googlegemini&logoColor=white">
   <img alt="ElevenLabs" src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white">
   <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
@@ -86,6 +85,7 @@
   <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img alt="Chrome Extensions" src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 </p>
 
@@ -94,25 +94,13 @@
 <h2 align="center">Experience</h2>
 
 <p align="center">
-  <img width="100%" alt="Timeline: CodAgentic and EnlightSystems internships in 2025, AI Engineer at Schmoozzer Sep 2025 to Mar 2026, AI Engineer at Digital Nexa since Mar 2026" src="assets-flat/experience.png">
+  <img width="100%" alt="Timeline: CodAgentic and EnlightSystems internships in 2025, AI Engineer at Schmoozzer Sep 2025 to Mar 2026, AI Engineer at Digital Nexa since Mar 2026" src="img/experience.png">
 </p>
-
-<p align="center"><sub>Also co-engineer at <b>3X AI Automation</b>, an AI automation agency, with Usama Younas.</sub></p>
 
 <br>
 
-<h2 align="center">Let's build something</h2>
-
 <p align="center">
-  Open to full-time roles, contracts and freelance builds in AI agents, automation and full-stack AI products.<br>
-  Send me the problem you are trying to solve and I will tell you straight whether I am the right fit.
+  Open to full-time roles, contracts and freelance builds. Send the problem you are trying to solve and I will tell you straight whether I am the right fit.
 </p>
 
-<p align="center">
-  <a href="mailto:contactbyhaseeb@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Email%20me-contactbyhaseeb%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/haseeb-tariq099"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://wa.me/923229909327"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://www.instagram.com/haseeb_tariq0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
-
-<img width="100%" alt="" src="assets-flat/footer.png">
+<img width="100%" alt="" src="img/footer.png">

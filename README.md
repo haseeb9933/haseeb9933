@@ -1,7 +1,7 @@
-<img width="100%" alt="Haseeb Tariq, AI & Automation Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1424,60:173d7a,100:1f6feb&height=230&section=header&text=Haseeb%20Tariq&fontSize=66&fontColor=e6edf3&fontAlignY=36&desc=AI%20%26%20Automation%20Engineer&descSize=20&descAlignY=58&animation=fadeIn">
+<img width="100%" alt="Haseeb Tariq, AI & Automation Engineer" src="assets/hero.png">
 
 <p align="center">
-  <img alt="What I build" src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=820&height=50&lines=Autonomous+agents+that+run+in+production%2C+not+demos;AI+receptionists+that+book+real+appointments;Browser+bots+that+survive+anti-detection;n8n+pipelines+that+debug+and+fix+themselves;Full-stack+AI+platforms+used+by+real+teams+every+day">
+  <img alt="What I build" src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=820&height=50&lines=Autonomous+agents+that+run+in+production%2C+not+demos;Voice+and+chat+agents+that+book+real+appointments;Browser+bots+that+survive+anti-detection;n8n+pipelines+that+debug+and+fix+themselves;Full-stack+AI+platforms+used+by+real+teams+every+day">
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <p align="center">
   <img width="32%" alt="AI agents and LLM apps" src="assets/svc-agents.png">
   <img width="32%" alt="RAG assistants" src="assets/svc-rag.png">
-  <img width="32%" alt="Voice and chat receptionists" src="assets/svc-voice.png">
+  <img width="32%" alt="Voice and chat agents" src="assets/svc-voice.png">
   <img width="32%" alt="Browser automation and scraping" src="assets/svc-browser.png">
   <img width="32%" alt="Workflow automation" src="assets/svc-workflows.png">
   <img width="32%" alt="Full-stack AI products" src="assets/svc-fullstack.png">
@@ -111,4 +111,4 @@
   <a href="https://www.linkedin.com/in/haseeb-tariq099"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,40:173d7a,100:0d1424&height=120&section=footer">
+<img width="100%" alt="" src="assets/footer.png">

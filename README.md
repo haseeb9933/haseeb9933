@@ -1,4 +1,4 @@
-<img width="100%" alt="Haseeb Tariq, AI & Automation Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1424,60:173d7a,100:1f6feb&height=230&section=header&text=Haseeb%20Tariq&fontSize=66&fontColor=e6edf3&fontAlignY=36&desc=AI%20%26%20Automation%20Engineer%20%C2%B7%20Lahore%2C%20Pakistan%20%C2%B7%20Remote&descSize=20&descAlignY=58&animation=fadeIn">
+<img width="100%" alt="Haseeb Tariq, AI & Automation Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1424,60:173d7a,100:1f6feb&height=230&section=header&text=Haseeb%20Tariq&fontSize=66&fontColor=e6edf3&fontAlignY=36&desc=AI%20%26%20Automation%20Engineer&descSize=20&descAlignY=58&animation=fadeIn">
 
 <p align="center">
   <img alt="What I build" src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=820&height=50&lines=Autonomous+agents+that+run+in+production%2C+not+demos;AI+receptionists+that+book+real+appointments;Browser+bots+that+survive+anti-detection;n8n+pipelines+that+debug+and+fix+themselves;Full-stack+AI+platforms+used+by+real+teams+every+day">
